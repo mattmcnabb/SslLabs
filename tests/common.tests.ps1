@@ -88,4 +88,3 @@ Pester\Describe "Manifest" {
         }
     }
 }
-
