@@ -5,4 +5,3 @@ a PowerShell module for analyzing your web servers' SSL configurations. Leverage
 
 ## API docs
 https://github.com/ssllabs/ssllabs-scan/blob/stable/ssllabs-api-docs.md
-

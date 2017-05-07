@@ -6,4 +6,3 @@ foreach ($Script in $Scripts)
 {
 	. $Script.FullName
 }
-

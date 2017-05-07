@@ -12,4 +12,3 @@ else
 }
 
 $ModulePath = Join-Path $ProjectPath $ModuleName
-
