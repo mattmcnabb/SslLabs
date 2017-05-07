@@ -7,7 +7,7 @@ schema: 2.0.0
 # Invoke-SslLabsAssessment
 
 ## SYNOPSIS
-{{Fill in the Synopsis}}
+Initiates an SSL assessment and retrieves the results
 
 ## SYNTAX
 

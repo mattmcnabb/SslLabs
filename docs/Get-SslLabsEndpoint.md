@@ -7,7 +7,7 @@ schema: 2.0.0
 # Get-SslLabsEndpoint
 
 ## SYNOPSIS
-{{Fill in the Synopsis}}
+Retrieves information about an endpoint from SSL Labs assessments
 
 ## SYNTAX
 

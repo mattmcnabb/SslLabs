@@ -7,7 +7,7 @@ schema: 2.0.0
 # Get-SslLabsCert
 
 ## SYNOPSIS
-{{Fill in the Synopsis}}
+returns the root CA certificates used in SSL assessments
 
 ## SYNTAX
 
