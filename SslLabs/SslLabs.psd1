@@ -7,16 +7,17 @@
     Description = "a PowerShell module for analyzing your web servers' SSL configurations. Leverages Qualys' SSL Labs API"
     PowerShellVersion = "5.0"
     FunctionsToExport = @(
-		"Get-SslLabsAssessmentResult",
-        "Start-SslLabsAssessment"
+		"Get-SslLabsCert",
+		"Get-SslLabsEndpoint",
+        "Invoke-SslLabsAssessment"
 	)
 
     PrivateData = @{
         PSData = @{
-            #Tags = ""
+            Tags = "SSL","Security","https","REST"
             LicenseUri = "https://github.com/mattmcnabb/SslLabs/blob/master/SslLabs/SslLabs/license"
             ProjectUri = "https://github.com/mattmcnabb/SslLabs"
-            #ReleaseNotes = ""
+            ReleaseNotes = "initial beta release"
         }
     }
 }
