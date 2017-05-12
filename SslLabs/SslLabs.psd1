@@ -15,7 +15,7 @@
     PrivateData = @{
         PSData = @{
             Tags = "SSL","Security","https","REST"
-            LicenseUri = "https://github.com/mattmcnabb/SslLabs/blob/master/SslLabs/SslLabs/license"
+            LicenseUri = "https://github.com/mattmcnabb/SslLabs/blob/master/SslLabs/license"
             ProjectUri = "https://github.com/mattmcnabb/SslLabs"
             ReleaseNotes = "initial beta release"
         }

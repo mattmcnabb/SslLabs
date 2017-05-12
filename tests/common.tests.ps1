@@ -74,7 +74,7 @@ Pester\Describe "Manifest" {
     }
     
     Pester\It 'has a valid license Uri' {
-        $ManifestHash.PrivateData.Values.LicenseUri | Should Be "https://github.com/mattmcnabb/SslLabs/blob/master/SslLabs/SslLabs/license"
+        $ManifestHash.PrivateData.Values.LicenseUri | Should Be "https://github.com/mattmcnabb/SslLabs/blob/master/SslLabs/license"
     }
     
     Pester\It 'has a valid project Uri' {
