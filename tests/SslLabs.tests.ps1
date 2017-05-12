@@ -1,4 +1,4 @@
-﻿$ProjectPath = Split-Path $PSScriptRoot
+$ProjectPath = Split-Path $PSScriptRoot
 
 if ($env:APPVEYOR)
 {
